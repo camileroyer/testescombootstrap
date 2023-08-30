@@ -1,0 +1,15 @@
+header div{
+    background-color: rosybrown;
+    height: 200px;
+}
+
+#ryan{
+    margin-left: 300px;
+}
+
+.carousel{
+    width: 500px;
+    height: 200px;
+    margin-bottom: 80px;
+    margin-left: 300px;
+}
